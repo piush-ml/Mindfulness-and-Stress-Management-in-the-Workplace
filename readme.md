@@ -68,14 +68,13 @@ This repository includes all official submissions and documentation:
 
 ```
 📦 Mindfulness-Stress-Management-Workplace
- ┣ 📄 project-management-plan-team-22.pdf
- ┣ 📄 team-contract-team-22.pdf
- ┣ 📄 interim-report-team-22.pdf
- ┣ 📄 project-report-1-team-22.pdf
- ┣ 📄 final-project-report-team-22.pdf
- ┣ 📊 interview-slides-team-22.pdf
- ┣ 🎥 presentation-video-team-22.mp4
- ┗ 📊 presentation-slides-team-22.pdf
+ ┣ 📄 team-contract.pdf
+ ┣ 📄 project-management-plan.pdf
+ ┣ 📄 project-report-1.pdf
+ ┣ 📊 interview-slides.pdf
+ ┣ 📄 interim-report.pdf
+ ┣ 📄 final-project-report.pdf
+ ┗ 📊 presentation-slides.pdf
 ```
 
 ### 📄 Key Documents Description
@@ -85,7 +84,7 @@ This repository includes all official submissions and documentation:
 * **Interim Report** – Mid-project research progress
 * **Final Report** – Complete research findings and analysis
 * **Interview Slides** – Insights from expert discussions
-* **Presentation Slides & Video** – Final project presentation submission
+* **Presentation Slides** – Final project presentation submission
 
 ---
 
