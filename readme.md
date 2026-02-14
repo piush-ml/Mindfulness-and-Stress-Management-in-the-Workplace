@@ -33,7 +33,7 @@ The project focuses on understanding workplace stress, the role of mindfulness i
 | ------------------ | -------------------------------- | ------------------------------------------------------------------ |
 | Pulkit Mangal      | IITM BS DS (9.41)                | ML Intern, TA for Deep Learning & Gen AI                           |
 | Kshitij Maheshwari | IITM BS DS (8.52), AMU EE (8.68) | MLP TA, Data Analytics Intern, Freelance Tutor                     |
-| **Piush Das**      | IITM BS DS (8.95)                | TA for MLT, Linux Labs & School Connect, ML Project Mentor         |
+| Piush Das          | IITM BS DS (8.95)                | TA for MLT, Linux Labs & School Connect, ML Project Mentor         |
 | Sujal Raj Pradhan  | IITM BS DS (8.68)                | AI Engineering Intern, TA for TDS, DBMS & Statistics 2, SDE Intern |
 | Jhilmil Dutta      | IITM BS DS (8.3)                 | CSR Intern, Business Data Analyst                                  |
 
@@ -74,7 +74,8 @@ This repository includes all official submissions and documentation:
  ┣ 📊 interview-slides.pdf
  ┣ 📄 interim-report.pdf
  ┣ 📄 final-project-report.pdf
- ┗ 📊 presentation-slides.pdf
+ ┣ 📊 presentation-slides.pdf
+ ┗🎥 presentation-video.mp4
 ```
 
 ### 📄 Key Documents Description
@@ -84,7 +85,7 @@ This repository includes all official submissions and documentation:
 * **Interim Report** – Mid-project research progress
 * **Final Report** – Complete research findings and analysis
 * **Interview Slides** – Insights from expert discussions
-* **Presentation Slides** – Final project presentation submission
+* **Presentation Slides & Video** – Final project presentation submission
 
 ---
 
