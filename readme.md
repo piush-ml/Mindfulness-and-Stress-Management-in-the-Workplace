@@ -125,8 +125,11 @@ Our research approach included:
 ## 🎓 Course Information
 
 **Course:** Strategies for Professional Growth
+
 **Institution:** IIT Madras (BS Degree Program)
+
 **Term:** September 2025
+
 **Project Type:** Team Research Project
 
 ---
