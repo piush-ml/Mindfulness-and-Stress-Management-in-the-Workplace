@@ -75,7 +75,7 @@ This repository includes all official submissions and documentation:
  ┣ 📄 interim-report.pdf
  ┣ 📄 final-project-report.pdf
  ┣ 📊 presentation-slides.pdf
- ┗🎥 presentation-video.mp4
+ ┗ 🎥 presentation-video.mp4
 ```
 
 ### 📄 Key Documents Description
